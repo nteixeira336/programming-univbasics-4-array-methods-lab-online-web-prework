@@ -19,5 +19,5 @@ using_include.last
 end
 
 def using_size(array)
-
+using_include.size 
 end
