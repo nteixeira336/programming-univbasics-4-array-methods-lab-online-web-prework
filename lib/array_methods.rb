@@ -11,7 +11,7 @@ using_include.reverse
 end
 
 def using_first(array)
-
+using_include.first 
 end
 
 def using_last(array)
