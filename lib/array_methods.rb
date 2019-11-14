@@ -3,7 +3,7 @@ array.include? ("blue")
 end
 
 def using_sort(array)
-
+using_include.sort 
 end
 
 def using_reverse(array)
